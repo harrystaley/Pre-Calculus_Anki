@@ -1,0 +1,313 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "982ff826-bbaf-11ed-9592-7bfb26162716",
+            "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "desc": "Please see the <a href='https://ankiweb.net/shared/info/1243525433'>shared deck page</a> for more info.",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Trig Identities",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\boldsymbol{\\mathrm{sin}u}<br />",
+                        "\\boldsymbol{\\frac{1}{\\mathrm{csc}u}}<br>"
+                    ],
+                    "guid": "j,OKQbY+OH",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Identity",
+                        "Reciprocal",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\boldsymbol{\\mathrm{cos}u}<br />",
+                        "\\boldsymbol{\\frac{1}{\\mathrm{sec}u}}<br>"
+                    ],
+                    "guid": "i+h6Dsq@mE",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Identity",
+                        "Reciprocal",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\boldsymbol{\\mathrm{tan}u}<br />",
+                        "\\boldsymbol{\\frac{1}{\\mathrm{cot}u}}<br>"
+                    ],
+                    "guid": "y:5pt2tfY=",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Identity",
+                        "Reciprocal",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\boldsymbol{\\mathrm{csc}u}<br />",
+                        "\\boldsymbol{\\frac{1}{\\mathrm{sin}u}}<br>"
+                    ],
+                    "guid": "CLMyb%K_3>",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Identity",
+                        "Reciprocal",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\boldsymbol{\\mathrm{sec}u}<br />",
+                        "\\boldsymbol{\\frac{1}{\\mathrm{cos}u}}<br />"
+                    ],
+                    "guid": "fY$yj724]c",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Identity",
+                        "Reciprocal",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\boldsymbol{\\mathrm{cot}u}<br />",
+                        "\\boldsymbol{\\frac{1}{\\mathrm{tan}u}}<br />"
+                    ],
+                    "guid": "bO~=wn8#?$",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Identity",
+                        "Reciprocal",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\boldsymbol{\\mathrm{sin^{2}}u+\\mathrm{cos^{2}}u}<br />",
+                        "\\boldsymbol{\\mathrm{1}}<br />"
+                    ],
+                    "guid": "i$r,97D[$n",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Identity",
+                        "Pythagorean",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\boldsymbol{\\mathrm{1}+\\mathrm{tan^{2}}u}<br />",
+                        "\\boldsymbol{\\mathrm{sec^{2}}u}<br />"
+                    ],
+                    "guid": "mq>p}5gdW&",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Identity",
+                        "Pythagorean",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\boldsymbol{\\mathrm{1}+\\mathrm{cot^{2}}u}<br />",
+                        "\\boldsymbol{\\mathrm{csc^{2}}u}<br />"
+                    ],
+                    "guid": "jl3Y~,3er0",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Identity",
+                        "Pythagorean",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\boldsymbol{\\frac{\\mathrm{sin}u}{\\mathrm{cos}u}}<br />",
+                        "\\boldsymbol{\\mathrm{tan}u}}<br />"
+                    ],
+                    "guid": "Bi3m2LSPM.",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Identity",
+                        "missing-media",
+                        "Quotient",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\boldsymbol{\\frac{\\mathrm{cos}u}{\\mathrm{sin}u}<br />",
+                        "\\boldsymbol{\\mathrm{cot}u}}<br />"
+                    ],
+                    "guid": "Kggohl&tFq",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Identity",
+                        "missing-media",
+                        "Quotient",
+                        "Trig"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "982fc806-bbaf-11ed-9592-7bfb26162716",
+    "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    2,
+                    0
+                ],
+                "order": 1,
+                "perDay": 500,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 5000
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Pre-Calculus",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+            "css": ".card {\nfont-family: arial;\nfont-size: 20px;\ntext-align: center;\ncolor: black;\nbackground-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[10pt]{article} \n\\usepackage{amssymb,amsmath} \n\\usepackage[paperwidth=3in, paperheight=5in]{geometry}\n\\pagestyle{empty} \n\\setlength{\\parindent}{0in} \n\\begin{document} ",
+            "latexsvg": false,
+            "name": "Basic-07f63",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "Matrix",
+                "Multiplication",
+                "Product"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{Back}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
