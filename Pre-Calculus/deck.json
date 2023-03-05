@@ -18,8 +18,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\boldsymbol{\\mathrm{sin}u}<br />",
-                        "\\boldsymbol{\\frac{1}{\\mathrm{csc}u}}<br>"
+                        "\\(\\boldsymbol{\\mathrm{sin}u}\\)",
+                        "\\(\\boldsymbol{\\frac{1}{\\mathrm{csc}u}}\\)"
                     ],
                     "guid": "j,OKQbY+OH",
                     "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
@@ -32,8 +32,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\boldsymbol{\\mathrm{cos}u}<br />",
-                        "\\boldsymbol{\\frac{1}{\\mathrm{sec}u}}<br>"
+                        "\\(\\boldsymbol{\\mathrm{cos}u}\\)",
+                        "\\(\\boldsymbol{\\frac{1}{\\mathrm{sec}u}}\\)"
                     ],
                     "guid": "i+h6Dsq@mE",
                     "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
@@ -46,8 +46,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\boldsymbol{\\mathrm{tan}u}<br />",
-                        "\\boldsymbol{\\frac{1}{\\mathrm{cot}u}}<br>"
+                        "\\(\\boldsymbol{\\mathrm{tan}u}\\)",
+                        "\\(\\boldsymbol{\\frac{1}{\\mathrm{cot}u}}\\)"
                     ],
                     "guid": "y:5pt2tfY=",
                     "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
@@ -60,8 +60,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\boldsymbol{\\mathrm{csc}u}<br />",
-                        "\\boldsymbol{\\frac{1}{\\mathrm{sin}u}}<br>"
+                        "\\(\\boldsymbol{\\mathrm{csc}u}\\)",
+                        "\\(\\boldsymbol{\\frac{1}{\\mathrm{sin}u}}\\)"
                     ],
                     "guid": "CLMyb%K_3>",
                     "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
@@ -74,8 +74,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\boldsymbol{\\mathrm{sec}u}<br />",
-                        "\\boldsymbol{\\frac{1}{\\mathrm{cos}u}}<br />"
+                        "\\(\\boldsymbol{\\mathrm{sec}u}&lt;br&gt;\\)",
+                        "\\(\\boldsymbol{\\frac{1}{\\mathrm{cos}u}}&lt;br&gt;\\)"
                     ],
                     "guid": "fY$yj724]c",
                     "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
@@ -88,8 +88,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\boldsymbol{\\mathrm{cot}u}<br />",
-                        "\\boldsymbol{\\frac{1}{\\mathrm{tan}u}}<br />"
+                        "\\(\\boldsymbol{\\mathrm{cot}u}\\)",
+                        "\\(\\boldsymbol{\\frac{1}{\\mathrm{tan}u}}\\)"
                     ],
                     "guid": "bO~=wn8#?$",
                     "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
@@ -102,8 +102,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\boldsymbol{\\mathrm{sin^{2}}u+\\mathrm{cos^{2}}u}<br />",
-                        "\\boldsymbol{\\mathrm{1}}<br />"
+                        "\\(\\boldsymbol{\\mathrm{sin^{2}}u+\\mathrm{cos^{2}}u}\\)",
+                        "\\(\\boldsymbol{\\mathrm{1}}\\)"
                     ],
                     "guid": "i$r,97D[$n",
                     "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
@@ -116,8 +116,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\boldsymbol{\\mathrm{1}+\\mathrm{tan^{2}}u}<br />",
-                        "\\boldsymbol{\\mathrm{sec^{2}}u}<br />"
+                        "\\(\\boldsymbol{\\mathrm{1}+\\mathrm{tan^{2}}u}\\)",
+                        "\\(\\boldsymbol{\\mathrm{sec^{2}}u}\\)"
                     ],
                     "guid": "mq>p}5gdW&",
                     "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
@@ -130,8 +130,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\boldsymbol{\\mathrm{1}+\\mathrm{cot^{2}}u}<br />",
-                        "\\boldsymbol{\\mathrm{csc^{2}}u}<br />"
+                        "\\(\\boldsymbol{\\mathrm{1}+\\mathrm{cot^{2}}u}\\)",
+                        "\\(\\boldsymbol{\\mathrm{csc^{2}}u}\\)"
                     ],
                     "guid": "jl3Y~,3er0",
                     "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
@@ -144,8 +144,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\boldsymbol{\\frac{\\mathrm{sin}u}{\\mathrm{cos}u}}<br />",
-                        "\\boldsymbol{\\mathrm{tan}u}}<br />"
+                        "\\(\\boldsymbol{\\frac{\\mathrm{sin}u}{\\mathrm{cos}u}}\\)",
+                        "\\(\\mathrm{tan} u\\)"
                     ],
                     "guid": "Bi3m2LSPM.",
                     "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
@@ -159,8 +159,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\boldsymbol{\\frac{\\mathrm{cos}u}{\\mathrm{sin}u}<br />",
-                        "\\boldsymbol{\\mathrm{cot}u}}<br />"
+                        "\\(\\boldsymbol{\\frac{ \\mathrm{cos} u}{\\mathrm{sin} u}}\\)",
+                        "\\(\\boldsymbol{\\mathrm{cot} u}\\)"
                     ],
                     "guid": "Kggohl&tFq",
                     "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
