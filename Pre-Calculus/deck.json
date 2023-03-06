@@ -174,6 +174,299 @@
             ],
             "reviewLimit": null,
             "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8705c8f6-bbe5-11ed-881e-81972f694807",
+            "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Unit Circle",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\cos 90^{\\circ}\\)",
+                        "0"
+                    ],
+                    "guid": "GOn!(jdy|o",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algebra",
+                        "Linear",
+                        "Matrix",
+                        "Rotaiton"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\cos 30^{\\circ}\\)",
+                        "\\(\\frac{\\sqrt{3}}{2}\\)"
+                    ],
+                    "guid": "g{OtuK.3-~",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algebra",
+                        "Linear",
+                        "Matrix",
+                        "Rotation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\sin 45^{\\circ}\\)",
+                        "\\(\\frac{\\sqrt{2}}{2}\\)"
+                    ],
+                    "guid": "F[,+3j$`i;",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algebra",
+                        "Linear",
+                        "Matrix",
+                        "Rotation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\sin 30^{\\circ}\\)",
+                        "\\(\\frac{1}{2}\\)"
+                    ],
+                    "guid": "j^vN&D+FuR",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algebra",
+                        "Linear",
+                        "Matrix",
+                        "Rotation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\cos 45^{\\circ}\\)",
+                        "\\(\\frac{\\sqrt{2}}{2}\\)"
+                    ],
+                    "guid": "BykEKkp&6g",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algebra",
+                        "Linear",
+                        "Matrix",
+                        "Rotation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>\\(\\cos 60^{\\circ}\\)</div>",
+                        "\\(\\frac{1}{2}\\)"
+                    ],
+                    "guid": "L|rN(Q0OL5",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algebra",
+                        "Linear",
+                        "Matrix",
+                        "Rotation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\sin 60^{\\circ}\\)",
+                        "\\(\\frac{\\sqrt{3}}{2}\\)"
+                    ],
+                    "guid": "kw{&y^-iYL",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algebra",
+                        "Linear",
+                        "Matrix",
+                        "Rotation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\cos 0^{\\circ}\\)",
+                        "1"
+                    ],
+                    "guid": "D@Mr]ydViT",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algebra",
+                        "Linear",
+                        "Matrix",
+                        "Rotaiton"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\sin 0^{\\circ}\\)",
+                        "0"
+                    ],
+                    "guid": "cfZ?&kN<H&",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algebra",
+                        "Linear",
+                        "Matrix",
+                        "Rotaiton"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\cos 90^{\\circ}\\)",
+                        "0"
+                    ],
+                    "guid": "w]]&#(WfhW",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algebra",
+                        "Linear",
+                        "Matrix",
+                        "Rotaiton"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\sin 90^{\\circ}\\)",
+                        "1"
+                    ],
+                    "guid": "bsH,1PSCh+",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algebra",
+                        "Linear",
+                        "Matrix",
+                        "Rotation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(sin \\theta\\)",
+                        "\\(y\\)"
+                    ],
+                    "guid": "GLjRzL7Qz<",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(cos \\theta\\)",
+                        "\\(x\\)"
+                    ],
+                    "guid": "i+^#}D~W$4",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(tan \\theta\\)",
+                        "\\(\\frac {y} {x}\\)"
+                    ],
+                    "guid": "fWQ4|Is,S`",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degrees to Radians:<br>\\(45^{\\circ}\\)",
+                        "\\(\\frac {\\pi}{4}\\)"
+                    ],
+                    "guid": ")$qTkb|lm",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degrees to Radians:<br>\\(0^{\\circ}\\)&nbsp;or&nbsp;\\(360^{\\circ}\\)",
+                        "\\(2\\pi\\)"
+                    ],
+                    "guid": "C6P+.&URrs",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degrees to Radians:<br>\\(90^{\\circ}\\)",
+                        "\\(\\frac {\\pi}{2}\\)"
+                    ],
+                    "guid": "oe&`}2y9GM",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degrees to Radians:<br>\\(135^{\\circ}\\)",
+                        "\\(\\frac {3 \\pi}{4}\\)"
+                    ],
+                    "guid": "jss*Mm$3CD",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degrees to Radians<br>\\(180^{\\circ}\\)",
+                        "\\(\\pi\\)"
+                    ],
+                    "guid": "gAs%@-;x5A",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degrees to Radians<br>\\(225^{\\circ}\\)",
+                        "\\(\\vrac {5\\pi}{4}\\)"
+                    ],
+                    "guid": "wrc&=O_Kjc",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degrees to Radians:<br>270^{\\circ}",
+                        "\\frac {3\\pi}{2}"
+                    ],
+                    "guid": "j.hITI_9wS",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degrees to Radians<br>\\(315^{\\circ}\\)",
+                        "\\(\\frac {7 \\pi}{4}\\)"
+                    ],
+                    "guid": "b{dAQ34F(8",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         }
     ],
     "crowdanki_uuid": "982fc806-bbaf-11ed-9592-7bfb26162716",
@@ -297,6 +590,67 @@
                     "bfont": "Arial",
                     "bqfmt": "",
                     "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[20pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath,amsfonts,mathrsfs}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
