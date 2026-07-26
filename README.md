@@ -1,55 +1,52 @@
 ```markdown
 # Pre-Calculus_Anki
 
-Welcome to the **Pre-Calculus_Anki** repository, a collaborative project aimed at enhancing Pre-Calculus Anki decks. This project leverages MathJax for rendering mathematical notation and sources content from reputable educational resources like Paul's Online Notes, Wikipedia, and MIT OpenCourseWare. Our goal is to facilitate effective learning through spaced repetition.
+Enhance your Pre-Calculus learning experience with our curated Anki decks. Utilizing MathJax for precise mathematical notation, these decks are sourced from top educational resources to provide effective spaced repetition for mastering Pre-Calculus concepts.
 
 ## Features
 
-- **Comprehensive Decks**: Curated Anki decks covering a wide range of Pre-Calculus topics.
-- **MathJax Integration**: High-quality mathematical notation for clear understanding.
-- **Collaborative Sourcing**: Content derived from trusted educational platforms.
-- **Spaced Repetition**: Designed to enhance long-term retention of Pre-Calculus concepts.
+- **Curated Content**: High-quality Anki decks designed to cover essential Pre-Calculus topics.
+- **MathJax Integration**: Seamless mathematical notation for clear and accurate representation of formulas and equations.
+- **Spaced Repetition**: Leverage Anki's algorithm to enhance memory retention and understanding.
+- **Cross-Platform Compatibility**: Use on various operating systems and devices supported by Anki.
 
 ## Installation
 
-To use the Pre-Calculus Anki decks, follow these steps:
+To set up the Pre-Calculus_Anki decks, follow these steps:
 
-1. Ensure you have Anki installed on your device. You can download it from [Anki's official website](https://apps.ankiweb.net/).
-2. Clone this repository:
+1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/yourusername/Pre-Calculus_Anki.git
    ```
-3. Import the Anki decks into your Anki application:
-   - Open Anki.
-   - Click on `File` > `Import`.
-   - Navigate to the cloned repository and select the desired `.apkg` file.
+
+2. **Navigate to the Directory**:
+   ```bash
+   cd Pre-Calculus_Anki
+   ```
+
+3. **Import Decks into Anki**:
+   - Open Anki on your device.
+   - Go to `File` > `Import...` and select the desired deck from the repository.
 
 ## Usage
 
-Once you have imported the decks, you can start using them to study Pre-Calculus:
+Once the decks are imported into Anki:
 
-- Open Anki and select the Pre-Calculus deck.
-- Review the cards using the spaced repetition system.
-- Adjust the review settings to fit your learning pace.
+- **Start Reviewing**: Open Anki and begin your review sessions. Adjust the settings as needed to fit your learning pace.
+- **Customize Decks**: Feel free to add your own notes or modify existing cards to better suit your learning style.
 
 ## Contribution
 
 We welcome contributions from the community! To contribute:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your fork and create a pull request.
-
-Please ensure your contributions align with our goal of enhancing learning experiences through comprehensive and accurate content.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes and push the branch to your fork.
+4. Open a pull request with a detailed description of your changes.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Thank you for being a part of the Pre-Calculus_Anki project! Your contributions and feedback are highly valued.
 ```
 
-This README.md file provides a structured and concise overview of the project, offering necessary details for potential users and contributors.
+Feel free to replace `https://github.com/yourusername/Pre-Calculus_Anki.git` with the actual URL of your repository.
