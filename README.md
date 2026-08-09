@@ -1,52 +1,43 @@
 ```markdown
 # Pre-Calculus_Anki
 
-Enhance your Pre-Calculus learning experience with our curated Anki decks, designed to utilize MathJax for precise mathematical notation. This repository leverages the power of spaced repetition to help you achieve mastery in Pre-Calculus.
+Enhance your Pre-Calculus learning experience with our expertly curated Anki decks. Utilizing MathJax for precise mathematical notation, these decks harness the power of spaced repetition to help you master Pre-Calculus concepts effectively.
 
 ## Features
 
-- **Curated Anki Decks**: High-quality decks focused on Pre-Calculus concepts.
-- **MathJax Integration**: Ensures precise and clear mathematical notation.
-- **Spaced Repetition**: Utilizes Anki's algorithm to optimize memory retention.
-- **Cross-Platform Compatibility**: Use on various operating systems with Anki.
+- **Curated Anki Decks**: Carefully designed to cover essential Pre-Calculus topics.
+- **MathJax Integration**: Ensures accurate and readable mathematical notation.
+- **Spaced Repetition**: Leverages Anki's algorithm to optimize learning and retention.
+- **Cross-Platform Compatibility**: Use with Anki on any supported device.
 
 ## Installation
 
-1. **Clone the Repository**:
+1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Pre-Calculus_Anki.git
+   git clone https://github.com/yourusername/Pre-Calculus_Anki.git
    ```
-
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd Pre-Calculus_Anki
-   ```
-
-3. **Import the Decks into Anki**:
-   - Open Anki.
-   - Go to `File` > `Import` and select the `.apkg` files from the repository.
+2. **Install Anki**: Download and install Anki from the [official website](https://apps.ankiweb.net/).
+3. **Import Decks**: Open Anki, select `File > Import`, and choose the downloaded deck files from the cloned repository.
 
 ## Usage
 
-1. Open Anki on your device.
-2. Import the desired Pre-Calculus deck.
-3. Start reviewing the cards daily to benefit from spaced repetition.
-4. Use the MathJax enabled cards for clear and accurate mathematical expressions.
+1. Launch Anki and open the Pre-Calculus deck.
+2. Review the cards daily as per Anki's schedule.
+3. Utilize MathJax-rendered cards to understand complex notations and formulas.
+4. Monitor your progress and adjust study sessions accordingly.
 
-## Contribution Guidelines
+## Contribution
 
-We welcome contributions! Please follow these steps:
+We welcome contributions from the community! To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
-3. Commit your changes with clear messages.
-4. Push to your fork and submit a pull request.
-
-Please make sure to adhere to our code of conduct.
+3. Commit your changes and push them to your fork.
+4. Submit a pull request with a detailed description of your changes.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
-This README provides a concise overview of the repository, highlights its features, and includes instructions for installation and usage. It also outlines how to contribute and specifies the license under which the project is distributed.
+This README.md provides a structured and informative overview of the Pre-Calculus_Anki project, guiding users through its features, setup, usage, contribution process, and licensing.
